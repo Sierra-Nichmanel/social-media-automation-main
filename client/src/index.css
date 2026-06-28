@@ -8,6 +8,8 @@
     --font-serif: "Urbanist", sans-serif;
 }
 
+@custom-variant hover (&:hover);
+
 * {
     box-sizing: border-box;
 }
